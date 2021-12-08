@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Odebrecht</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="quienes_somos_text">Somos una plataforma que reúne a los mejores psicólogos, psicoterapeutas,
+        psiquiatras y otros profesionales relacionados con la salud mentaly el desarrollo humano. Nuestra prioridad
+        es ayudar a las personas interesadas por la psicología y el bienestar emocional para que encuentren
+        con rapidez y facilidad, el profesional y el tipo de terapia o tratamiento más adecuado de acuerdo con la
+        situación vital y emocional por la que atraviesan. Somos especialistas en el campo de la psicología y centramos
+        nuestros esfuerzos en que las personas que visiten nuestra página sientan que están en un entorno seguro y de
+        confianza donde podrán encontrar buenos psicólogos, y centros psicológicos especializados en Lima y todo el Perú.</string>
+    <string name="mision_text">Brindar una atención psicológica oportuna y eficaz a los pacientes jóvenes y adultos
+        con problemas de estrés, ansiedad y depresión en todas sus dimensiones, por medio de procesos de asistencia
+        psicológica inmediata, orientados a mejorar su calidad de vida y permitir a su vez, el desarrollo de competencias
+        clave para su desenvolvimiento feliz en la vida. Nuestro enfoque proactivo para el desarrollo de mejores
+        prácticas y métodos eficaces de tratamiento nos ayudará a lograr nuestra razón de ser.</string>
+    <string name="vision_text">Queremos llegar a ser líderes del sector de la salud en Perú. Y que nuestro equipo de
+        profesionales se sientan inspirados para llevar a cabo su trabajo desde una óptica de excelencia y calidad.
+        Además, satisfacer lo que nuestros pacientes nos solicitan siempre, bajo el marco de calidad, seguridad e
+        integridad</string>
+    <string name="pregunta1">1. Tengo muchas dificultades a la hora de tener que tomar decisiones</string>
+    <string name="pregunta2">2. Disfruto con las actividades sociales</string>
+    <string name="pregunta3">3. Experimento muchos cambios emocionales a lo largo del día</string>
+    <string name="pregunta4">4. No me averguenzo cuando cometo un error</string>
+    <string name="pregunta5">5. No demuestro mis auténticos sentimientos ante los demás</string>
+    <string name="pregunta6">6. Suelo tomarme con humor mis fallos</string>
+    <string name="pregunta7">7. Dudo de mis sentimientos</string>
+    <string name="pregunta8">8. Me doy cuenta con facilidad de lo que los demás esperan de mí</string>
+    <string name="pregunta9">9. Evito a las personas que me hacen sentir inferior, culpable o avergonzado</string>
+    <string name="pregunta10">10. No me asusto normalmente</string>
+    <string name="pregunta11">11. Me amargo dándole muchas vueltas a la cabeza incluso con temas sin importancia</string>
+    <string name="pregunta12">12. No tardo en recuperarme de los malos momentos</string>
+    <string name="pregunta13">13. No puedo dejar de sentirme inquieto ante la presencia de gente extraña</string>
+    <string name="pregunta14">14. Soy alegre y divertido</string>
+    <string name="pregunta15">15. Busco excusas para escaparme de las situaciones que me provocan malestar</string>
+    <string name="psicologos_text">Con el objetivo de permitir a más personas acceder a nuestro tratamiento especializado en psicoterapia,
+                    y gracias a los últimos avances en telemedicina, en Odebrecht hemos desarrollado el servicio de psicoterapia
+                    online, a cargo de nuestro experimentado equipo de psicólogos clínicos – psicoterapeutas, quienes podrán
+                    acompañarte, a través de videoconferencia, en el lugar que te encuentres o de forma presencial, desde la comodidad de tu hogar
+                    u oficina.</string>
+    <string name="psiquiatra_text1">Se enfocan en un tratamiento integral del paciente para lograr su reinserción a la actividad laboral
+                    así como a sus núcleos sociales y sobretodo familiares.</string>
+    <string name="psiquiatra_text2">Nos interesa detectar señales tempranas de alarma que permitan una intervención precoz y siempre tratar
+					de reducir impactos negativos en el futuro paciente, así como en el de su entorno. Brinda el soporte a
+					pacientes sin historia de trastornos mentales previos con procesos reactivos a enfermedades físicas.</string>
+
+</resources>

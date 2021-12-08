@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="50dp">
+
+    <TextView
+        android:id="@+id/D_id"
+        android:paddingTop="15dp"
+        android:paddingBottom="15dp"
+        android:paddingRight="30dp"
+        android:paddingLeft="30dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="id"/>
+    <TextView
+        android:id="@+id/D_date"
+        android:paddingTop="15dp"
+        android:paddingBottom="15dp"
+        android:paddingRight="60dp"
+        android:paddingLeft="60dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="fecha"/>
+    <TextView
+        android:id="@+id/D_medic"
+        android:paddingTop="15dp"
+        android:paddingBottom="15dp"
+        android:paddingRight="70dp"
+        android:paddingLeft="70dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="medico"/>
+</LinearLayout>

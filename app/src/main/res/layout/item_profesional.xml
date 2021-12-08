@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:gravity="center_horizontal">
+
+    <TextView
+        android:id="@+id/P_Fullname"
+        android:paddingRight="10dp"
+        android:paddingLeft="10dp"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:text="nombre completo"/>
+
+    <TextView
+        android:id="@+id/P_licencia"
+        android:paddingRight="10dp"
+        android:paddingLeft="10dp"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:text="nombre completo"/>
+
+    <Button
+        android:id="@+id/P_button"
+        android:layout_width="70dp"
+        android:layout_height="wrap_content"
+        android:text="ver perfil"
+        android:textSize="9dp"/>
+
+</LinearLayout>

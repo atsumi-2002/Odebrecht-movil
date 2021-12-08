@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/inicioButton"
+        android:title="Inicio" />
+    <item
+        android:id="@+id/cuestionarioButton"
+        android:title="Cuestionario" />
+    <item
+        android:id="@+id/profesionalsButton"
+        android:title="Profesionales" />
+    <item
+        android:id="@+id/consultasButton"
+        android:title="Consultas" />
+    <item
+        android:id="@+id/citasButton"
+        android:title="Citas" />
+    <item
+        android:id="@+id/perfilButton"
+        android:title="Perfil" />
+</menu>
